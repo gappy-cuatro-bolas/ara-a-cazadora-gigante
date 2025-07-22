@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8" />
@@ -521,16 +520,16 @@
           <div class="gallery-caption">Ejemplar adulto mostrando su impresionante envergadura</div>
         </div>
         <div class="gallery-item">
-          <img src="https://www.thoughtco.com/thmb/4Z8ZQZQZQZQZQZQZQZQZQZQZQZQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/giant-huntsman-spider-5c5b5a5d46e0fb0001f5e5a5.jpg" alt="Primer plano de la araña">
+          <img src="https://www.lavanguardia.com/files/article_main_microformat/uploads/2016/11/06/5fa2f983c6e99.jpeg" alt="Primer plano de la araña">
           <div class="gallery-caption">Primer plano mostrando sus características físicas</div>
         </div>
         <div class="gallery-item">
-          <img src="https://www.science.org/do/10.1126/science.aaz6915/abs/spider_1280p_0.jpg" alt="Araña en su hábitat natural">
+          <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM79Yin9Rkar_nVNHLRMz63ij5X1IBglniBufCVz-6Gnj3XtogYtQjCKc0UO1T4XuUw6FoPn3plyIWX1NTSoowqcMovL_7J5qUkrFM0kuuZ3aNokp57vJ8qgKKAcBiteovTnDbxaHNPR8/s1600/7156581986_810e0042b4_b.jpg" alt="Araña en su hábitat natural">
           <div class="gallery-caption">En su hábitat natural en las cuevas de Laos</div>
         </div>
         <div class="gallery-item">
-          <img src="https://www.nationalgeographic.com.es/medio/2022/10/14/heteropoda-maxima_00000000_221014125329_1280x720.jpg" alt="Comparación con una mano humana">
-          <div class="gallery-caption">Comparación de tamaño con una mano humana</div>
+          <img src="https://www.telemundo.com/sites/nbcutelemundo/files/styles/fit-760w/public/arania1.jpg?ramen_itok=iqwQftIcTf" alt="Comparación con una mano humana">
+          <div class="gallery-caption">Comparación de tamaño con un humano</div>
         </div>
       </div>
     </div>
